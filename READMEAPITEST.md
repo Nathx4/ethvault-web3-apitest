@@ -16,7 +16,7 @@ It was built as part of a blockchain developer technical assessment.
 ## 🛠 Technology Stack
 - **Next.js** (App Router)
 - **TypeScript**
-- **ethers.js v6** for blockchain interaction
+- **ethers.js v6**
 - **Node.js 20.x**
 
 ---
@@ -32,7 +32,6 @@ app/
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
-```bash
 git clone https://github.com/<your_user>/ethvault-web3-apitest.git
 cd ethvault-web3-apitest
 
